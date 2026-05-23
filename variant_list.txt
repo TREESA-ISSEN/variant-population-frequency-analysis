@@ -1,0 +1,5 @@
+VCF	AC	AN	ACMG
+chr1-100000000-A-G	1	2048	Pathogenic
+chr1-200000000-C-T	2	2048	Likely_pathogenic
+chr2-100000000-G-A	1	2050	Pathogenic
+chr2-200000000-T-C	3	2046	Likely_pathogenic
